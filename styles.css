@@ -1,0 +1,44 @@
+body {
+  background-color: #fff8dc;
+  padding-top: 2rem;
+}
+
+.quote {
+  font-family: Helvetica;
+  font-size: 1.6rem;
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+  /* Centralizar  */
+  padding: 1.5rem;
+  border: 2px solid #8b008b;
+  color: #454545e2;
+  border-radius: 0.4rem;
+}
+
+.quote .text {
+  font-style: italic;
+  margin-bottom: 0.4rem;
+  /* afasta o nome do autor */
+}
+
+.quote .author {
+  font-weight: bold;
+  font-style: italic;
+  color: #000000;
+}
+
+.button {
+  font-size: 1.4rem;
+  background-color: #8b008b;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 0.8rem 1.2rem;
+  cursor: pointer;
+  transition: 0.4s;
+}
+
+.button:hover {
+  background-color: #da70d6;
+}
