@@ -4,9 +4,9 @@ Neste projeto, foi elaborado um gerador de citações, onde o usuário pode clic
 
 ## Tecnologias:
 
-- HTML
-- CSS
-- JavaScript
+◼ HTML
+◼ CSS
+◼ JavaScript
 
 🌐 Veja o projeto rodando no navegador através do Vercel:
 https://js-projeto-gerador-de-citacoes.vercel.app/
